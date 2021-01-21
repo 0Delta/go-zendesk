@@ -20,3 +20,4 @@ coverage.txt
 .idea
 *.iml
 .pre-commit-config.yaml
+*.swp
